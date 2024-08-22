@@ -1,12 +1,15 @@
-## Hi there 👋kkkkk
+<h1>BEM VINDOS AO MEU GITHUB<br>WELCOME TO MY GITHUB</h1>
+ <br>SOBRE MIM: (ele/dele)
+<br>Olá,
+<br>Me chamo raposotavares(username),tenho 16 anos e comecei a programar recentemente, sou expressivo e trabalho bem em equipe pois gosto de trabalhar com pessoas. O motivo de criar a conta é que atualmente estou tentando ganhar experiência no mercado de trabalho para que eventualmente eu possa igressar em alguma empresa. Estou aberto a dicas, sugestões e correções de todos :)
 
-<!--
-**raposotavares/raposotavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> EXPERIÊNCIAS PROFSSIONAIS>
+<br>Até o presente momento não tenho experiências profissionais
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<h3>ESTUDOS E CONHECIMENTOS
+<br>Atualmente estou cursando DS(Desenvolvimento de Sistemas), não só isso como estudo lógicas/linguagens de programação e IA(Inteligência Artificial). As linguagens que eu estudo no momento são: Python, C#. Pretendo me aprofundar em mais linguagens da área como: C++, JavaScript, Java, C, etc.
+<br>Domino:
+Camadas OSI, Topologia de Redes, Versionamento de Códigos 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
