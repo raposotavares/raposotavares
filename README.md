@@ -19,7 +19,7 @@ Camadas OSI, Topologia de Redes, Versionamento de Códigos, Inglês
 
 <br>
 <br>-------------------------<br>
-<h1>ABOUT ME:
+ABOUT ME:
 <br>Hello!,
 <br>My name is raposotavares(username), i'm 16 years old and i started to programming recently, i'm very expressive and i'm really good at teamwork because i like to work with many people. The reason for creating this GitHub acocunt is because recently, i'm trying to gain experience in the job market so that i can eventually join in a company. i am open to tips, suggestions and correcitons. Thx guys :)
 <h2> PROFESSIONAL EXPERIENCES</h2>
